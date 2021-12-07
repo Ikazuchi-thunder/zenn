@@ -5,7 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GraphQL", "TypeScript", "Nexus", "Prisma"]
 published: true
 ---
-この記事は、[いかずちさんだー Advent Calendar](https://adventar.org/calendars/7111) 6日目の記事です。
+この記事は、[いかずちさんだー Advent Calendar](https://adventar.org/calendars/7111) 7日目の記事です。
 
 # リクルーティング表記
 
